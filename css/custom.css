@@ -1,0 +1,36 @@
+.cart-title h1 {
+  margin-bottom: 20px;
+}
+
+body {
+  height: 100%;
+  color: white;
+  background: url("../images/bruno-kelzer-LvySG1hvuzI-unsplash.jpg");
+  background-size: cover;
+}
+
+.remove {
+  background-color: red;
+  border: 0;
+  border-radius: 3px;
+  font-size: 12px;
+  padding: 4px 8px;
+}
+
+#total-price, .total-price-label {
+  display: inline-block;
+}
+
+#total-price {
+  margin-left: 30px;
+  font-size: 35px;
+}
+
+#fork {
+  width: 100%;
+  background-color: black;
+}
+
+.new-item {
+  margin-top: 20px;
+}
