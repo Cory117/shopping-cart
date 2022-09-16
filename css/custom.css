@@ -17,6 +17,10 @@ body {
   padding: 4px 8px;
 }
 
+.quantity, #name, #cost {
+  color: black;
+}
+
 #total-price, .total-price-label {
   display: inline-block;
 }
